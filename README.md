@@ -36,7 +36,7 @@
     4. TextInput
     5. TouchableOpacity
     
-  -JS function 문법\
+  -JS function 문법
   
   -if 문 :\
     A ? B : C ==> if A is true -> B, false ->C
@@ -52,5 +52,7 @@
   4. open api 이용한 네트워킹 연습
   5. AWS LAMDA 사용해서 서버리스 api 구현해보기
     
-<3주차 2019.08.12>\
-<4주차 2019.08.12>\
+<3주차 2019.08.12>
+===============
+<4주차 2019.08.12>
+==============
