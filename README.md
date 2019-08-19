@@ -6,11 +6,11 @@
      npm install -g expo-cli\
      expo init 프로젝트명\
      cd 프로젝트명\
-     npm start # you can also use: expo start\
+     npm start # you can also use: expo start
     
    -에뮬레이터 실행\
      react-native run-ios\
-     react-native run-android\
+     react-native run-android
     
    -RN Basic
    1. Use native components instead of web components
@@ -29,7 +29,7 @@
 <2주차 2019.08.19>
 
   -Todo App 5강까지 코드 리뷰\
-    [사용된 컴포넌트]\
+    [사용된 컴포넌트]
     1. ScrollView
     2. StatusBar
     3. StyleSheet
@@ -45,7 +45,7 @@
     : https://gist.github.com/alexpchin/102854243cd066f8b88e
     
   
-  [과제]\
+  [과제]
   1. 디자인 패턴
   2. style sheet
   3. Nomad Coder Kawaii Todo List Clone 완성하기
