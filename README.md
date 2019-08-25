@@ -54,7 +54,10 @@
     
 <3주차 2019.08.12>
 ===============
-
+  ##DESIGN PATTERN
+  https://github.com/ClintJang/sample-react-native-redux-architecture-patterns
+  ##STYLE SHEET
+  ##TODO DAMN
 
 
 
