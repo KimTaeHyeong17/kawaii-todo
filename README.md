@@ -2,17 +2,17 @@
 
 <1주차 2019.08.09>
 ================
-  ### 리액트 네이티브 프로젝트 생성 후 'Hello world' 실행하기.
+  ### [리액트 네이티브 프로젝트 생성 후 'Hello world' 실행하기]
      npm install -g expo-cli
      expo init 프로젝트명
      cd 프로젝트명
      npm start # you can also use: expo start
     
-   ### 에뮬레이터 실행
+   ### [에뮬레이터 실행]
      react-native run-ios
      react-native run-android
     
-   ### RN Basic
+   ### [RN Basic]
    1. Use native components instead of web components
    2. uses basic React concepts : JSX, components, state, props
    3. [JSX] : embedding xml within javascripe, write markup language inside code
@@ -28,7 +28,7 @@
   
 <2주차 2019.08.19>
 ================
-  ### Todo App 5강까지 코드 리뷰
+  ### [Todo App 5강까지 코드 리뷰]
    [사용된 컴포넌트]
    1. ScrollView
    2. StatusBar
@@ -36,12 +36,12 @@
    4. TextInput
    5. TouchableOpacity
     
-  ### JS function 문법
+  ### [JS function 문법]
   
-  ### if 문 :
+  ### [if 문]
     A ? B : C ==> if A is true -> B, false -> C
     
-  ### git make local folder to remote repo
+  ### [git make local folder to remote repo]
     https://gist.github.com/alexpchin/102854243cd066f8b88e
     
   
@@ -51,13 +51,18 @@
    3. Nomad Coder Kawaii Todo List Clone 완성하기
    4. open api 이용한 네트워킹 연습
    5. AWS LAMDA 사용해서 서버리스 api 구현해보기
+   
+   
+   
+
+   
     
 <3주차 2019.08.12>
 ===============
-  ### DESIGN PATTERN
+  ### [DESIGN PATTERN]
     https://github.com/ClintJang/sample-react-native-redux-architecture-patterns
-  ### KAWAII TODO LIST
-  ### RN-NETWORK
+  ### [KAWAII TODO LIST]
+  ### [RN-NETWORK]
     //GET request 
     fetch('https://api.thecatapi.com/v1/images/search', {
         method: 'GET',
@@ -84,8 +89,8 @@
     }
   *Json parsing 모르겠음
   
-  ### STYLE SHEET
-  ### AWS_LAMBDA
+  ### [STYLE SHEET]
+  ### [AWS_LAMBDA]
     1. 람다함수 생성
     2. 람다함수 테스트
     3. API GATEWAY 설정
