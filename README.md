@@ -54,10 +54,45 @@
     
 <3주차 2019.08.12>
 ===============
-  ##DESIGN PATTERN
-  https://github.com/ClintJang/sample-react-native-redux-architecture-patterns
-  ##STYLE SHEET
-  ##TODO DAMN
+  ## DESIGN PATTERN
+    https://github.com/ClintJang/sample-react-native-redux-architecture-patterns
+  ## KAWAII TODO LIST
+  ## RN-NETWORK
+    //GET request 
+    fetch('https://api.thecatapi.com/v1/images/search', {
+        method: 'GET',
+        headers: new Headers({
+          'x-api-key' : 'dcca2e38-da5a-4c2d-b5fc-2d7c456b70f6'
+        })
+        //Request Type 
+    })
+    .then((response) => response.json())
+    //If response is in json then in success
+    .then((responseJson) => {
+        //Success 
+        
+        alert(JSON.stringify(responseJson));
+        console.log(responseJson);
+        
+    })
+    //If response is not in json then in error
+    .catch((error) => {
+        //Error 
+        alert(JSON.stringify(error));
+        console.error(error);
+    });
+  }
+  *Json parsing 모르겠음
+  
+  ## STYLE SHEET
+  ## AWS_LAMBDA
+    1. 람다함수 생성
+    2. 람다함수 테스트
+    3. API GATEWAY 설정
+    4. 람다함수 연결
+    5. API 테스트
+    6. API 배포
+    
 
 
 
